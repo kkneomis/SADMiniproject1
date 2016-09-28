@@ -1,0 +1,80 @@
+{% extends "layout.html" %}
+{% block body %}
+  {% if session.logged_in %}
+    <form action="{{ url_for('add_supplier') }}" method=post class="form-horizontal">
+
+        <fieldset>
+
+        <!-- Form Name -->
+        <legend>Add a Supplier</legend>
+
+        <!-- Text input-->
+        <div class="form-group">
+          <label class="col-md-4 control-label" for="supplier_id">Supplier ID</label>
+          <div class="col-md-4">
+          <input id="supplier_id" name="supplier_id" type="text" placeholder="integer" class="form-control input-md" required="">
+
+          </div>
+        </div>
+
+        <!-- Text input-->
+        <div class="form-group">
+          <label class="col-md-4 control-label" for="supplier_name">Supplier Name</label>
+          <div class="col-md-4">
+          <input id="supplier_name" name="supplier_name" type="text" placeholder="text" class="form-control input-md">
+
+          </div>
+        </div>
+
+        <!-- Text input-->
+        <div class="form-group">
+          <label class="col-md-4 control-label" for="supplier_location">Supplier Location</label>
+          <div class="col-md-4">
+          <input id="supplier_location" name="supplier_location" type="text" placeholder="text" class="form-control input-md" required="">
+
+          </div>
+        </div>
+
+
+        <!-- Button -->
+        <div class="form-group">
+          <label class="col-md-4 control-label" for="submit"></label>
+          <div class="col-md-4">
+            <button id="submit" name="submit" class="btn btn-success">Submit</button>
+          </div>
+        </div>
+
+        </fieldset>
+        </form>
+
+  {% endif %}
+
+
+
+    <table class="table table-striped table-hover ">
+      <thead>
+        <tr>
+          <th>Supplier ID</th>
+          <th>Supplier Name</th>
+          <th>Location</th>
+        </tr>
+      </thead>
+
+      <tbody>
+      {% for supplier in suppliers %}
+        <tr>
+          <td>{{ supplier.supplier_id }}</td>
+          <td>{{ supplier.supplier_name }}</td>
+          <td>{{ supplier.supplier_location }}</td>
+        </tr>
+      {% else %}
+        <tr>
+          <td>No Supplies</td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+
+{% endblock %}
+
+

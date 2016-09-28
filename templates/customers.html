@@ -1,0 +1,93 @@
+{% extends "layout.html" %}
+{% block body %}
+  {% if session.logged_in %}
+    <form action="{{ url_for('add_customers') }}" method=post class="form-horizontal">
+
+        <fieldset>
+
+        <!-- Form Name -->
+        <legend>Add a Customer</legend>
+
+        <!-- Text input-->
+        <div class="form-group">
+          <label class="col-md-4 control-label" for="cust_id">Customer ID</label>
+          <div class="col-md-4">
+          <input id="cust_id" name="cust_id" type="text" placeholder="integer" class="form-control input-md" required="">
+
+          </div>
+        </div>
+
+        <!-- Text input-->
+        <div class="form-group">
+          <label class="col-md-4 control-label" for="cust_name">Customer Name</label>
+          <div class="col-md-4">
+          <input id="cust_name" name="cust_name" type="text" placeholder="text" class="form-control input-md">
+
+          </div>
+        </div>
+
+        <!-- Text input-->
+        <div class="form-group">
+          <label class="col-md-4 control-label" for="cust_dob">Date of birth</label>
+          <div class="col-md-4">
+          <input id="cust_dob" name="cust_dob" type="text" placeholder="text" class="form-control input-md" required="">
+
+          </div>
+        </div>
+
+        <!-- Text input-->
+        <div class="form-group">
+          <label class="col-md-4 control-label" for="cust_address">Customer Address</label>
+          <div class="col-md-4">
+          <input id="cust_address" name="cust_address" type="text" placeholder="text" class="form-control input-md" required="">
+
+          </div>
+        </div>
+
+
+        <!-- Button -->
+        <div class="form-group">
+          <label class="col-md-4 control-label" for="submit"></label>
+          <div class="col-md-4">
+            <button id="submit" name="submit" class="btn btn-success">Submit</button>
+          </div>
+        </div>
+
+        </fieldset>
+
+
+
+    </form>
+  {% endif %}
+
+
+
+    <table class="table table-striped table-hover ">
+      <thead>
+        <tr>
+          <th>Customer ID</th>
+          <th>Product ID</th>
+          <th>Customer ID</th>
+          <th>Email</th>
+        </tr>
+      </thead>
+
+      <tbody>
+      {% for customer in customers %}
+        <tr>
+          <td>{{ customer.cust_id }}</td>
+          <td>{{ customer.cust_name }}</td>
+          <td>{{ customer.cust_gender }}</td>
+          <td>{{ customer.cust_email }}</td>
+        </tr>
+      {% else %}
+        <tr>
+          <td>No Products</td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+
+{% endblock %}
+
+

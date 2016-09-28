@@ -1,0 +1,59 @@
+<!doctype html>
+<head>
+    <title>Flaskr</title>
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+    <script type="text/javascript" src="{{ url_for('static', filename='bootstrap.min.js') }}"></script>
+</head>
+
+<body>
+<nav class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a  href="/"><img src="{{ url_for('static', filename='dist.png') }}" class="navbar-brand"></a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li><a href="/products">Products<span class="sr-only">(current)</span></a></li>
+        <li><a href="/suppliers">Suppliers</a></li>
+        <li><a href="/ads">Advertisements</a></li>
+        <li><a href="/customers">Customers</a></li>
+      </ul>
+      <form class="navbar-form navbar-left" role="search">
+        <div class="form-group">
+          <input type="text" class="form-control" placeholder="Search">
+        </div>
+        <button type="submit" class="btn btn-default">Submit</button>
+      </form>
+      <ul class="nav navbar-nav navbar-right">
+        <li class="active">
+             {% if not session.logged_in %}
+                <a href="{{ url_for('login') }}">log in</a>
+              {% else %}
+                <a href="{{ url_for('logout') }}">log out</a>
+              {% endif %}
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+    <div class="container">
+      <h1>Ann & Bill's Distributorship</h1>
+      {% for message in get_flashed_messages() %}
+          <div class="alert alert-dismissible alert-info">
+              <button type="button" class="close" data-dismiss="alert">&times;</button>
+              {{ message }}
+            </div>
+        <div class=flash></div>
+      {% endfor %}
+      {% block body %}{% endblock %}
+    </div>
+
+
+<body>
