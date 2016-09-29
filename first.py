@@ -1,6 +1,7 @@
 # all the imports
 import os
 import sqlite3
+import time
 from flask import Flask, request, session, g, redirect, url_for, abort, \
      render_template, flash
 
@@ -68,8 +69,20 @@ def home():
 @app.route('/sale', methods=['POST'])
 def sale():
     id = request.form['prod_id']
+    quantity = request.form['quantity']
+    balance =  request.form['balance']
     db = get_db()
-    db.execute('INSERT INTO SALE(SALE_ID, PROD_ID, CUST_ID, SALE_QUANTITY, SALE_BALANCE) VALUES(2,35, 9, 116, 0.00)')
+    try:
+        #db.execute('INSERT INTO INVOICE(INVOICE_ID, INVOICE_BALANCE, INVOICE_DATE) VALUES (?,?,?)', ((100,23.234, time.strftime("%c"))))
+        #db.execute('INSERT INTO SALE(SALE_ID, PROD_ID, CUST_ID, INVOICE_ID, SALE_QUANTITY) VALUES(?,?, ?, ?, ?)', (1232332, id, 1, 1, quantity))
+        #db.execute('UPDATE PRODUCT SET PROD_QOH = 0 WHERE PRODUCT.PROD_ID = 0')
+        db.commit()
+        flash('success!')
+    except:
+        flash("something went wrong..try again")
+
+    #cur.execute("INSERT INTO contact (name,phone,username,email) VALUES (?,?,?,?)", (name, phone, username, email))
+    db.close()
     return redirect(url_for('home'))
 
 # create the show page for products

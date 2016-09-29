@@ -28,6 +28,15 @@
           </div>
         </div>
 
+        <!-- Text input-->
+        <div class="form-group">
+          <label class="col-md-4 control-label" for="quantity">Balance</label>
+          <div class="col-md-4">
+          <input id="balance" name="balance" type="text" placeholder="remaining balance" class="form-control input-md" required="true">
+
+          </div>
+        </div>
+
         <!-- Button -->
         <div class="form-group">
           <label class="col-md-4 control-label" for="submit"></label>
@@ -57,8 +66,8 @@
           <td>{{ sale.sale_id }}</td>
           <td>{{ sale.prod_id }}</td>
           <td>{{ sale.cust_id }}</td>
-          <td>{{ sale.quantity }}</td>
-          <td>{{ sale.balance }}</td>
+          <td>{{ sale.sale_quantity }}</td>
+          <td>{{ sale.sale_balance }}</td>
         </tr>
       {% else %}
         <tr>

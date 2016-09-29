@@ -35,77 +35,28 @@
       <file leaf-file-name="first.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/first.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="67" column="37" selection-start-line="67" selection-start-column="37" selection-end-line="67" selection-end-column="37" />
+            <state relative-caret-position="99">
+              <caret line="211" column="22" selection-start-line="0" selection-start-column="0" selection-end-line="230" selection-end-column="0" />
               <folding>
                 <element signature="e#18#27#0" expanded="true" />
-                <marker date="1475029860000" expanded="true" signature="1435:1453" ph="select title... entries" />
-                <marker date="1475029860000" expanded="true" signature="1505:1526" ph="select * fro... PRODUCT" />
-                <marker date="1475029860000" expanded="true" signature="1749:1829" ph="INSERT INTO SALE... " />
-                <marker date="1475029860000" expanded="true" signature="1749:1848" ph="INSERT INTO SALE... " />
-                <marker date="1475029860000" expanded="true" signature="2010:2049" ph="select title... entries" />
-                <marker date="1475029860000" expanded="true" signature="2010:2052" ph="select * fro... PRODUCT" />
-                <marker date="1475029860000" expanded="true" signature="2274:2317" ph="select * fro... CUSTOMER" />
-                <marker date="1475029860000" expanded="true" signature="2543:2590" ph="select * fro... SUPPLIER" />
-                <marker date="1475029860000" expanded="true" signature="2803:2849" ph="select * fro... ADVERTISEMENT" />
-                <marker date="1475029860000" expanded="true" signature="3071:3118" ph="insert into entries... " />
-                <marker date="1475029860000" expanded="true" signature="3464:3571" ph="INSERT INTO PRODUCT... " />
-                <marker date="1475029860000" expanded="true" signature="4134:4218" ph="INSERT INTO CUSTOMER... " />
-                <marker date="1475029860000" expanded="true" signature="4745:4830" ph="INSERT INTO SUPPLIER... " />
-                <marker date="1475029860000" expanded="true" signature="5332:5407" ph="INSERT INTO ADVERTISEMENT... " />
+                <marker date="1475115722000" expanded="true" signature="1447:1465" ph="select title... entries" />
+                <marker date="1475115722000" expanded="true" signature="1517:1538" ph="select * fro... PRODUCT" />
+                <marker date="1475115722000" expanded="true" signature="1854:1923" ph="INSERT INTO INVOICE... " />
+                <marker date="1475115722000" expanded="true" signature="1854:1931" ph="INSERT INTO INVOICE... " />
+                <marker date="1475115722000" expanded="true" signature="1992:2083" ph="INSERT INTO SALE... " />
+                <marker date="1475115722000" expanded="true" signature="2138:2195" ph="UPDATE PRODU... " />
+                <marker date="1475115722000" expanded="true" signature="2324:2388" ph="INSERT INTO contact... " />
+                <marker date="1475115722000" expanded="true" signature="2597:2636" ph="select title... entries" />
+                <marker date="1475115722000" expanded="true" signature="2597:2639" ph="select * fro... PRODUCT" />
+                <marker date="1475115722000" expanded="true" signature="2861:2904" ph="select * fro... CUSTOMER" />
+                <marker date="1475115722000" expanded="true" signature="3130:3177" ph="select * fro... SUPPLIER" />
+                <marker date="1475115722000" expanded="true" signature="3390:3436" ph="select * fro... ADVERTISEMENT" />
+                <marker date="1475115722000" expanded="true" signature="3658:3705" ph="insert into entries... " />
+                <marker date="1475115722000" expanded="true" signature="4051:4158" ph="INSERT INTO PRODUCT... " />
+                <marker date="1475115722000" expanded="true" signature="4721:4805" ph="INSERT INTO CUSTOMER... " />
+                <marker date="1475115722000" expanded="true" signature="5332:5417" ph="INSERT INTO SUPPLIER... " />
+                <marker date="1475115722000" expanded="true" signature="5919:5994" ph="INSERT INTO ADVERTISEMENT... " />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="17" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="intert_sale.sql" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/queries/intert_sale.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-              <folding>
-                <marker date="1474856635000" expanded="true" signature="0:490" ph="INSERT INTO SALE... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="insert_customers.sql" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/queries/insert_customers.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="customers.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/customers.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="80" column="31" selection-start-line="80" selection-start-column="31" selection-end-line="80" selection-end-column="31" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -113,8 +64,80 @@
       <file leaf-file-name="test.sql" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2550">
-              <caret line="170" column="62" selection-start-line="170" selection-start-column="62" selection-end-line="170" selection-end-column="62" />
+            <state relative-caret-position="314">
+              <caret line="424" column="21" selection-start-line="424" selection-start-column="21" selection-end-line="424" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="supplier.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/supplier.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="searches.sql" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/queries/searches.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="86">
+              <caret line="261" column="0" selection-start-line="261" selection-start-column="0" selection-end-line="269" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ads.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/ads.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="products.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/products.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1335">
+              <caret line="89" column="16" selection-start-line="89" selection-start-column="16" selection-end-line="89" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="populate.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/populate.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <marker date="1475109586000" expanded="true" signature="168:188" ph="INSERT INTO CUSTOMER... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="intert_sale.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/queries/intert_sale.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="49" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inser_invoices.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/queries/inser_invoices.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -123,18 +146,8 @@
       <file leaf-file-name="insert_purchase.sql" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/queries/insert_purchase.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="insert_engagement.sql" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/queries/insert_engagement.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="105">
+              <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -160,21 +173,23 @@
         <option value="$PROJECT_DIR$/static/bootstrap.min.js" />
         <option value="$PROJECT_DIR$/templates/schools.html" />
         <option value="$PROJECT_DIR$/templates/supplier.html" />
-        <option value="$PROJECT_DIR$/templates/ads.html" />
         <option value="$PROJECT_DIR$/templates/layout.html" />
-        <option value="$PROJECT_DIR$/templates/products.html" />
         <option value="$PROJECT_DIR$/queries/insert_customers.sql" />
         <option value="$PROJECT_DIR$/queries/insert_products.sql" />
         <option value="$PROJECT_DIR$/queries/insert_suppliers.sql" />
         <option value="$PROJECT_DIR$/queries/insert_advertisement.sql" />
         <option value="$PROJECT_DIR$/queries/insert_engagement.sql" />
+        <option value="$PROJECT_DIR$/templates/customers.html" />
+        <option value="$PROJECT_DIR$/templates/home.html" />
+        <option value="$PROJECT_DIR$/templates/products.html" />
+        <option value="$PROJECT_DIR$/queries/inser_invoices.sql" />
         <option value="$PROJECT_DIR$/populate.py" />
         <option value="$PROJECT_DIR$/queries/intert_sale.sql" />
         <option value="$PROJECT_DIR$/queries/insert_purchase.sql" />
-        <option value="$PROJECT_DIR$/templates/home.html" />
         <option value="$PROJECT_DIR$/first.py" />
         <option value="$PROJECT_DIR$/test.sql" />
-        <option value="$PROJECT_DIR$/templates/customers.html" />
+        <option value="$PROJECT_DIR$/templates/ads.html" />
+        <option value="$PROJECT_DIR$/queries/searches.sql" />
       </list>
     </option>
   </component>
@@ -185,9 +200,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="46" />
     <option name="width" value="1280" />
-    <option name="height" value="709" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -268,9 +282,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="FullScreen" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RunManager" selected="Python.first">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -520,7 +534,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="46" width="1280" height="709" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1542811" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -530,7 +544,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35211268" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37945205" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -575,7 +589,15 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/first.py</url>
+          <line>72</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -585,20 +607,23 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#18#27#0" expanded="true" />
-            <marker date="1475029860000" expanded="true" signature="1435:1453" ph="select title... entries" />
-            <marker date="1475029860000" expanded="true" signature="1505:1526" ph="select * fro... PRODUCT" />
-            <marker date="1475029860000" expanded="true" signature="1749:1829" ph="INSERT INTO SALE... " />
-            <marker date="1475029860000" expanded="true" signature="1749:1848" ph="INSERT INTO SALE... " />
-            <marker date="1475029860000" expanded="true" signature="2010:2049" ph="select title... entries" />
-            <marker date="1475029860000" expanded="true" signature="2010:2052" ph="select * fro... PRODUCT" />
-            <marker date="1475029860000" expanded="true" signature="2274:2317" ph="select * fro... CUSTOMER" />
-            <marker date="1475029860000" expanded="true" signature="2543:2590" ph="select * fro... SUPPLIER" />
-            <marker date="1475029860000" expanded="true" signature="2803:2849" ph="select * fro... ADVERTISEMENT" />
-            <marker date="1475029860000" expanded="true" signature="3071:3118" ph="insert into entries... " />
-            <marker date="1475029860000" expanded="true" signature="3464:3571" ph="INSERT INTO PRODUCT... " />
-            <marker date="1475029860000" expanded="true" signature="4134:4218" ph="INSERT INTO CUSTOMER... " />
-            <marker date="1475029860000" expanded="true" signature="4745:4830" ph="INSERT INTO SUPPLIER... " />
-            <marker date="1475029860000" expanded="true" signature="5332:5407" ph="INSERT INTO ADVERTISEMENT... " />
+            <marker date="1475115722000" expanded="true" signature="1447:1465" ph="select title... entries" />
+            <marker date="1475115722000" expanded="true" signature="1517:1538" ph="select * fro... PRODUCT" />
+            <marker date="1475115722000" expanded="true" signature="1854:1923" ph="INSERT INTO INVOICE... " />
+            <marker date="1475115722000" expanded="true" signature="1854:1931" ph="INSERT INTO INVOICE... " />
+            <marker date="1475115722000" expanded="true" signature="1992:2083" ph="INSERT INTO SALE... " />
+            <marker date="1475115722000" expanded="true" signature="2138:2195" ph="UPDATE PRODU... " />
+            <marker date="1475115722000" expanded="true" signature="2324:2388" ph="INSERT INTO contact... " />
+            <marker date="1475115722000" expanded="true" signature="2597:2636" ph="select title... entries" />
+            <marker date="1475115722000" expanded="true" signature="2597:2639" ph="select * fro... PRODUCT" />
+            <marker date="1475115722000" expanded="true" signature="2861:2904" ph="select * fro... CUSTOMER" />
+            <marker date="1475115722000" expanded="true" signature="3130:3177" ph="select * fro... SUPPLIER" />
+            <marker date="1475115722000" expanded="true" signature="3390:3436" ph="select * fro... ADVERTISEMENT" />
+            <marker date="1475115722000" expanded="true" signature="3658:3705" ph="insert into entries... " />
+            <marker date="1475115722000" expanded="true" signature="4051:4158" ph="INSERT INTO PRODUCT... " />
+            <marker date="1475115722000" expanded="true" signature="4721:4805" ph="INSERT INTO CUSTOMER... " />
+            <marker date="1475115722000" expanded="true" signature="5332:5417" ph="INSERT INTO SUPPLIER... " />
+            <marker date="1475115722000" expanded="true" signature="5919:5994" ph="INSERT INTO ADVERTISEMENT... " />
           </folding>
         </state>
       </provider>
@@ -665,20 +690,23 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#18#27#0" expanded="true" />
-            <marker date="1475029860000" expanded="true" signature="1435:1453" ph="select title... entries" />
-            <marker date="1475029860000" expanded="true" signature="1505:1526" ph="select * fro... PRODUCT" />
-            <marker date="1475029860000" expanded="true" signature="1749:1829" ph="INSERT INTO SALE... " />
-            <marker date="1475029860000" expanded="true" signature="1749:1848" ph="INSERT INTO SALE... " />
-            <marker date="1475029860000" expanded="true" signature="2010:2049" ph="select title... entries" />
-            <marker date="1475029860000" expanded="true" signature="2010:2052" ph="select * fro... PRODUCT" />
-            <marker date="1475029860000" expanded="true" signature="2274:2317" ph="select * fro... CUSTOMER" />
-            <marker date="1475029860000" expanded="true" signature="2543:2590" ph="select * fro... SUPPLIER" />
-            <marker date="1475029860000" expanded="true" signature="2803:2849" ph="select * fro... ADVERTISEMENT" />
-            <marker date="1475029860000" expanded="true" signature="3071:3118" ph="insert into entries... " />
-            <marker date="1475029860000" expanded="true" signature="3464:3571" ph="INSERT INTO PRODUCT... " />
-            <marker date="1475029860000" expanded="true" signature="4134:4218" ph="INSERT INTO CUSTOMER... " />
-            <marker date="1475029860000" expanded="true" signature="4745:4830" ph="INSERT INTO SUPPLIER... " />
-            <marker date="1475029860000" expanded="true" signature="5332:5407" ph="INSERT INTO ADVERTISEMENT... " />
+            <marker date="1475115722000" expanded="true" signature="1447:1465" ph="select title... entries" />
+            <marker date="1475115722000" expanded="true" signature="1517:1538" ph="select * fro... PRODUCT" />
+            <marker date="1475115722000" expanded="true" signature="1854:1923" ph="INSERT INTO INVOICE... " />
+            <marker date="1475115722000" expanded="true" signature="1854:1931" ph="INSERT INTO INVOICE... " />
+            <marker date="1475115722000" expanded="true" signature="1992:2083" ph="INSERT INTO SALE... " />
+            <marker date="1475115722000" expanded="true" signature="2138:2195" ph="UPDATE PRODU... " />
+            <marker date="1475115722000" expanded="true" signature="2324:2388" ph="INSERT INTO contact... " />
+            <marker date="1475115722000" expanded="true" signature="2597:2636" ph="select title... entries" />
+            <marker date="1475115722000" expanded="true" signature="2597:2639" ph="select * fro... PRODUCT" />
+            <marker date="1475115722000" expanded="true" signature="2861:2904" ph="select * fro... CUSTOMER" />
+            <marker date="1475115722000" expanded="true" signature="3130:3177" ph="select * fro... SUPPLIER" />
+            <marker date="1475115722000" expanded="true" signature="3390:3436" ph="select * fro... ADVERTISEMENT" />
+            <marker date="1475115722000" expanded="true" signature="3658:3705" ph="insert into entries... " />
+            <marker date="1475115722000" expanded="true" signature="4051:4158" ph="INSERT INTO PRODUCT... " />
+            <marker date="1475115722000" expanded="true" signature="4721:4805" ph="INSERT INTO CUSTOMER... " />
+            <marker date="1475115722000" expanded="true" signature="5332:5417" ph="INSERT INTO SUPPLIER... " />
+            <marker date="1475115722000" expanded="true" signature="5919:5994" ph="INSERT INTO ADVERTISEMENT... " />
           </folding>
         </state>
       </provider>
@@ -703,13 +731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="386">
           <caret line="10" column="124160" selection-start-line="10" selection-start-column="124160" selection-end-line="10" selection-end-column="124160" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/ads.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
           <folding />
         </state>
       </provider>
@@ -730,36 +751,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/products.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1335">
-          <caret line="89" column="16" selection-start-line="89" selection-start-column="16" selection-end-line="89" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/supplier.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="3" column="61" selection-start-line="3" selection-start-column="61" selection-end-line="3" selection-end-column="84" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/layout.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/populate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <marker date="1474856559000" expanded="true" signature="157:176" ph="INSERT INTO CUSTOMER... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -803,18 +799,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/queries/insert_purchase.sql">
+    <entry file="file://$PROJECT_DIR$/queries/insert_customers.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="60">
+          <caret line="4" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home.html">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
+        <state relative-caret-position="30">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -827,60 +823,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/queries/intert_sale.sql">
+    <entry file="file://$PROJECT_DIR$/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="34" column="87" selection-start-line="34" selection-start-column="87" selection-end-line="34" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/populate.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
-            <marker date="1474856635000" expanded="true" signature="0:490" ph="INSERT INTO SALE... " />
+            <marker date="1475109586000" expanded="true" signature="168:188" ph="INSERT INTO CUSTOMER... " />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/queries/insert_customers.sql">
+    <entry file="file://$PROJECT_DIR$/queries/intert_sale.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+        <state relative-caret-position="318">
+          <caret line="49" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queries/insert_purchase.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queries/inser_invoices.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2550">
-          <caret line="170" column="62" selection-start-line="170" selection-start-column="62" selection-end-line="170" selection-end-column="62" />
+        <state relative-caret-position="314">
+          <caret line="424" column="21" selection-start-line="424" selection-start-column="21" selection-end-line="424" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/first.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="67" column="37" selection-start-line="67" selection-start-column="37" selection-end-line="67" selection-end-column="37" />
+        <state relative-caret-position="99">
+          <caret line="211" column="22" selection-start-line="0" selection-start-column="0" selection-end-line="230" selection-end-column="0" />
           <folding>
             <element signature="e#18#27#0" expanded="true" />
-            <marker date="1475029860000" expanded="true" signature="1435:1453" ph="select title... entries" />
-            <marker date="1475029860000" expanded="true" signature="1505:1526" ph="select * fro... PRODUCT" />
-            <marker date="1475029860000" expanded="true" signature="1749:1829" ph="INSERT INTO SALE... " />
-            <marker date="1475029860000" expanded="true" signature="1749:1848" ph="INSERT INTO SALE... " />
-            <marker date="1475029860000" expanded="true" signature="2010:2049" ph="select title... entries" />
-            <marker date="1475029860000" expanded="true" signature="2010:2052" ph="select * fro... PRODUCT" />
-            <marker date="1475029860000" expanded="true" signature="2274:2317" ph="select * fro... CUSTOMER" />
-            <marker date="1475029860000" expanded="true" signature="2543:2590" ph="select * fro... SUPPLIER" />
-            <marker date="1475029860000" expanded="true" signature="2803:2849" ph="select * fro... ADVERTISEMENT" />
-            <marker date="1475029860000" expanded="true" signature="3071:3118" ph="insert into entries... " />
-            <marker date="1475029860000" expanded="true" signature="3464:3571" ph="INSERT INTO PRODUCT... " />
-            <marker date="1475029860000" expanded="true" signature="4134:4218" ph="INSERT INTO CUSTOMER... " />
-            <marker date="1475029860000" expanded="true" signature="4745:4830" ph="INSERT INTO SUPPLIER... " />
-            <marker date="1475029860000" expanded="true" signature="5332:5407" ph="INSERT INTO ADVERTISEMENT... " />
+            <marker date="1475115722000" expanded="true" signature="1447:1465" ph="select title... entries" />
+            <marker date="1475115722000" expanded="true" signature="1517:1538" ph="select * fro... PRODUCT" />
+            <marker date="1475115722000" expanded="true" signature="1854:1923" ph="INSERT INTO INVOICE... " />
+            <marker date="1475115722000" expanded="true" signature="1854:1931" ph="INSERT INTO INVOICE... " />
+            <marker date="1475115722000" expanded="true" signature="1992:2083" ph="INSERT INTO SALE... " />
+            <marker date="1475115722000" expanded="true" signature="2138:2195" ph="UPDATE PRODU... " />
+            <marker date="1475115722000" expanded="true" signature="2324:2388" ph="INSERT INTO contact... " />
+            <marker date="1475115722000" expanded="true" signature="2597:2636" ph="select title... entries" />
+            <marker date="1475115722000" expanded="true" signature="2597:2639" ph="select * fro... PRODUCT" />
+            <marker date="1475115722000" expanded="true" signature="2861:2904" ph="select * fro... CUSTOMER" />
+            <marker date="1475115722000" expanded="true" signature="3130:3177" ph="select * fro... SUPPLIER" />
+            <marker date="1475115722000" expanded="true" signature="3390:3436" ph="select * fro... ADVERTISEMENT" />
+            <marker date="1475115722000" expanded="true" signature="3658:3705" ph="insert into entries... " />
+            <marker date="1475115722000" expanded="true" signature="4051:4158" ph="INSERT INTO PRODUCT... " />
+            <marker date="1475115722000" expanded="true" signature="4721:4805" ph="INSERT INTO CUSTOMER... " />
+            <marker date="1475115722000" expanded="true" signature="5332:5417" ph="INSERT INTO SUPPLIER... " />
+            <marker date="1475115722000" expanded="true" signature="5919:5994" ph="INSERT INTO ADVERTISEMENT... " />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/templates/ads.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="17" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+        <state relative-caret-position="120">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/products.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1335">
+          <caret line="89" column="16" selection-start-line="89" selection-start-column="16" selection-end-line="89" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/supplier.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queries/searches.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="261" column="0" selection-start-line="261" selection-start-column="0" selection-end-line="269" selection-end-column="10" />
           <folding />
         </state>
       </provider>
